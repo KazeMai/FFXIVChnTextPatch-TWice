@@ -17,7 +17,7 @@ int32,str,str
 12,TEXT_BAHAMUTGUIDETRAVELWILD2_SYSTEM_000_056,如果滿足開始條件，<hex:02100103>和小隊隊長進攻進度不同的成員也可以同步參加。
 13,TEXT_BAHAMUTGUIDETRAVELWILD2_SYSTEM_000_0561,未到達小隊隊長進攻進度的成員，<hex:02100103>其進攻進度會被更新為和小隊隊長相同。<hex:02100103>因此，可以直接從同一迷宮繼續進行挑戰。
 14,TEXT_BAHAMUTGUIDETRAVELWILD2_SYSTEM_000_057,進攻進度先於小隊隊長的成員，<hex:02100103>在小隊隊長超過其進攻進度之前，<hex:02100103>其進攻進度不會被更新。
-15,TEXT_BAHAMUTGUIDETRAVELWILD2_SYSTEM_100_057,這種情況下，在其進攻進度被更新前是無法獲得報酬的。<hex:02100103>寶箱數量也會隨隊伍里已完成該層攻略的成員人數發生變化。
+15,TEXT_BAHAMUTGUIDETRAVELWILD2_SYSTEM_100_057,這種情況下，在其進攻進度被更新前是無法獲得報酬的。<hex:02100103>寶箱數量也會隨隊伍裡已完成該層攻略的成員人數發生變化。
 16,TEXT_BAHAMUTGUIDETRAVELWILD2_SYSTEM_000_058,「巴哈姆特大迷宮真源之章」存在限定時間。<hex:02100103>進入迷宮經過90分鐘（地球時間）之後，<hex:02100103>將強制結束「巴哈姆特大迷宮真源之章」。
 17,TEXT_BAHAMUTGUIDETRAVELWILD2_SYSTEM_000_059,在留有戰利品的狀態下退出「巴哈姆特大迷宮真源之章」的話，<hex:02100103>戰利品中的道具會自動轉移到背包裡。
 18,TEXT_BAHAMUTGUIDETRAVELWILD2_SYSTEM_000_060,請注意：這種情況下，放不下的道具會被自動丟棄。
